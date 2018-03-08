@@ -7,6 +7,8 @@ A [ghost](https://ghost.org/)/[journey](https://github.com/kabukky/journey) them
 
 ### Install
 
+testing stuff
+
 To install the theme, clone this repository into your theme folder of your ghost installation:
 
 ```
